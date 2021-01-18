@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gegner
+  - Leicht
+  - Mittel
+  - Schwer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Level 1
+  - Level 2
+  - Hero
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boden
+    uniqueID: 3844371905
+    locked: 0
+  - name: Layer 1
+    uniqueID: 4240095675
+    locked: 0
+  - name: Layer 2
+    uniqueID: 2173182609
+    locked: 0
+  - name: Layer 3
+    uniqueID: 3148753
+    locked: 0
+  - name: Layer 4
+    uniqueID: 2226080397
+    locked: 0
+  - name: Player
+    uniqueID: 510527879
+    locked: 0
